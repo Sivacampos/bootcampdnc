@@ -250,6 +250,14 @@
         color: var(--cinza-hover);
     }
 
+    #produzido{
+        color: aliceblue;
+        font-family: var(--fonte-padrão);
+        margin-top: 3px;
+        margin-bottom: 3px;
+        text-align: center;
+    }
+
     /* CONFIGURAÇÃO MOBILE*/
 
 @media only screen and (max-width: 600px){
